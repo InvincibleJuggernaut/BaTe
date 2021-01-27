@@ -27,3 +27,4 @@ worksheet.write(current_row,2,full_charge)
 
 data.save(excel_file)
 
+print("Logged successfully")
