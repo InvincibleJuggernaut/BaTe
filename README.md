@@ -23,3 +23,7 @@
   <li>xlwt</li>
   </ul>
   </p>
+
+<h2>Supported Platforms</h2>
+
+<p>Windows</p>
