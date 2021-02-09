@@ -1,4 +1,13 @@
-# BaTe
+
+<h1 align="center">
+  <b>BaTe</b>
+  </h1>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Platform-Windows-black">
+  </a>
+  </p>
 
 <h2>Introduction</h2>
 
