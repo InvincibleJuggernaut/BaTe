@@ -27,3 +27,7 @@
 <h2>Supported Platforms</h2>
 
 <p>Windows</p>
+
+<h2>License</h2>
+
+<a href="LICENSE">GPLv3</a>
