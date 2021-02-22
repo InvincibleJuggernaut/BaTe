@@ -35,7 +35,7 @@
   <li>Clone this repository using :
   
   ```
-  https://github.com/InvincibleJuggernaut/BaTe.git
+  git clone https://github.com/InvincibleJuggernaut/BaTe.git
   ```
   </li>
   <li> Next, go inside the repository directory using :
