@@ -28,6 +28,30 @@
 
 <p>Windows</p>
 
+<h2>Usage</h2>
+
+<ul type="disc">
+
+  <li>Clone this repository using :
+  
+  ```
+  https://github.com/InvincibleJuggernaut/BaTe.git
+  ```
+  </li>
+  <li> Next, go inside the repository directory using :
+
+   ```
+  cd BaTe
+  ```
+  </li>
+  <li> Install all the dependencies using:
+
+```
+pip3 install -r requirements.txt
+```
+</li>
+</ul>
+
 <h2>License</h2>
 
 <a href="LICENSE">GPLv3</a>
