@@ -4,6 +4,9 @@
   </h1>
 
 <p align="center">
+   <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/MADE%20WITH%20-Python-blueviolet" height="20">
+  </a>
   <a href="">
     <img src="https://img.shields.io/badge/Platform-Windows-black">
   </a>
