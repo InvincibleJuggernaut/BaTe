@@ -53,6 +53,7 @@
 pip3 install -r requirements.txt
 ```
 </li>
+  <li>There are two scripts: <i>battery-test.bat</i> and <i>battery-logger.bat</i> You could run each file individually in the same order or schedule them using Task Scheduler.</li>
 </ul>
 
 <h2>License</h2>
